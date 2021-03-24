@@ -1,0 +1,17 @@
+{
+  "name": "tmp_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/faker": "^5.1.7",
+    "@types/highlightjs": "^10.1.0",
+    "faker": "^5.4.0",
+    "highlight.js": "file:../highlight.js/build"
+  }
+}

@@ -1,0 +1,1 @@
+import { LanguageFn, Language } from 'highlight.js';
